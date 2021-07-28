@@ -15,3 +15,7 @@ Some features are missing, as I haven't changed anything after the tutorial.
 **For the app to work you have to add your own google-services.json**
 
 find out how to do it **[here](https://firebase.google.com/docs/flutter/setup)**
+
+**Since the app uses the Google login feature, you must have an SHA-1 certificate when adding the application to Firebase**
+
+find out how to get a SHA-1 certificate **[here](https://developers.google.com/android/guides/client-auth)**
