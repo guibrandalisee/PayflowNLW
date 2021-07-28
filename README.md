@@ -11,3 +11,7 @@ Payflow is a simple app to manage your bills
 The app has an emmbed barcode reader made using Google ML Kit
 
 Some features are missing, as I haven't changed anything after the tutorial.
+
+**For the app to work you have to add your own google-services.json**
+
+find out how to do it **[here](https://firebase.google.com/docs/flutter/setup)**
