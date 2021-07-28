@@ -15,3 +15,7 @@ Algumas features não foram implementadas pois não continuei a fazer o app apó
 **Para o app funcionar você precisa adicionar seu proprio google-services.json**
 
 Descubra como fazer isso **[aqui](https://firebase.google.com/docs/flutter/setup)**
+
+**Como o app usa o serviço de login da google, você tera que adicionar uma chave SHA-1 quando for configurar o Firebase**
+
+veja como conseguir uma chave SHA-1 **[aqui](https://developers.google.com/android/guides/client-auth)**
