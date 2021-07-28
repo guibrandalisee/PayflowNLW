@@ -1,3 +1,5 @@
+[Versão em português deste arquivo](https://github.com/guibrandalisee/PayflowNLW/blob/master/READMEPT.md)
+
 # PayFlow
 
 A Flutter project made following RocketSeat's NLW Together tutorial
