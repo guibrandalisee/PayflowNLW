@@ -11,3 +11,7 @@ Payflow é um simples app para genrenciar seus boletos
 O aplicativo conta com um scanner de codigo de barras feito usando o ML Kit da Google
 
 Algumas features não foram implementadas pois não continuei a fazer o app após o término do tutorial
+
+**Para o app funcionar você precisa adicionar seu proprio google-services.json**
+
+Descubra como fazer isso **[aqui](https://firebase.google.com/docs/flutter/setup)**
