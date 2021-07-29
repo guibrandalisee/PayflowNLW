@@ -4,7 +4,7 @@
 
 A Flutter project made following RocketSeat's NLW Together tutorial
 
-<img src="https://github.com/guibrandalisee/PayflowNLW/blob/master/ReadMeImages/PayFlow.jpg?raw=true" height="500">
+<img src="https://user-images.githubusercontent.com/41174096/127569512-c0aae503-d733-4d59-8a48-0ad6168830cb.png" height="500">
 
 Payflow is a simple app to manage your bills
 
